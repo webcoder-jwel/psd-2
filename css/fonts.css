@@ -1,0 +1,6 @@
+@font-face {     
+	font-family: BrandonGrotesque;   
+	  src:url(../fonts/BrandonGrotesque-MediumItalic.ttf), 
+	  url(../fonts/BrandonGrotesque-BoldItalic.ttf),
+	  url(../fonts/BrandonGrotesque-Light.ttf); 
+}
